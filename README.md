@@ -2,7 +2,7 @@
 
 Staff Technical Program Manager working at the seam where **program leadership meets engineering** — turning ambiguous, cross-functional problems into systems teams can actually operate. My career runs **metal to cloud through real-time AI orchestration**: carrier-grade infrastructure early on, AWS-native data platforms in the middle, real-time AI orchestration most recently.
 
-- 🔭 **Most recently:** Staff TPM at Intuit (2025–2026) on the Virtual Expert Platform — the AI-driven layer behind expert help — leading real-time customer-to-expert routing across chat, phone, and email, and building the AI skills and scripts the program function ran on
+- 🔭 **Most recently:** Staff TPM at Intuit on the Virtual Expert Platform — the AI-driven layer behind expert help — leading real-time customer-to-expert routing across chat, phone, and email, and building the AI skills and scripts the program function ran on
 - 🛠 **Focus:** privacy, Trust & Safety, AI governance, and data contracts — turning regulatory and policy signal into systems teams can run
 - 🌱 **Recently built:** a real-time AI governance pipeline (below)
 - 🤝 **Open to:** Staff and Principal TPM roles, remote or San Diego
